@@ -4,5 +4,3 @@ Here's another wonder file.
 It's also a good file.
 
 Here's another line at the bottom
-
-Testing
